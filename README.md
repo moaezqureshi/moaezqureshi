@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @moaezqureshi
-- 👀 I’m interested in web development and ios development
-- 🌱 I’m currently learning C++ / php
+- 👀 I’m front-End Web Developer.
+- 🌱 I’m currently working on react.js
 - 📫 here is my email to reach me - moaez135@gmail.com
