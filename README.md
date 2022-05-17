@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @moaezqureshi
-- 👀 I’m front-End Web Developer.
-- 🌱 I’m currently working on react.js
+- 👀 I’m front-End Web Designer.
+- 🌱 I’m currently working on tailwind-css
 - 📫 here is my email to reach me - moaez135@gmail.com
